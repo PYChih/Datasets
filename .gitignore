@@ -6,3 +6,5 @@
 *.gz
 *.tgz
 *.xml
+*.png
+*.ipynb
