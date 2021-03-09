@@ -1,0 +1,23 @@
+{
+    "cat": 370,
+    "sheep": 311,
+    "bird": 576,
+    "bicycle": 389,
+    "person": 5227,
+    "car": 1541,
+    "pottedplant": 592,
+    "boat": 393,
+    "tvmonitor": 361,
+    "aeroplane": 311,
+    "chair": 1374,
+    "diningtable": 299,
+    "sofa": 396,
+    "motorbike": 369,
+    "bottle": 657,
+    "train": 302,
+    "bus": 254,
+    "dog": 530,
+    "cow": 329,
+    "horse": 395,
+    "total_num_images": 4952
+}

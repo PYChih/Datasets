@@ -1,0 +1,23 @@
+{
+    "car": 4008,
+    "bird": 1820,
+    "person": 15576,
+    "diningtable": 1057,
+    "pottedplant": 1724,
+    "boat": 1397,
+    "sofa": 1211,
+    "bottle": 2116,
+    "cat": 1616,
+    "bicycle": 1208,
+    "chair": 4338,
+    "train": 984,
+    "motorbike": 1141,
+    "aeroplane": 1285,
+    "dog": 2079,
+    "sheep": 1347,
+    "cow": 1058,
+    "tvmonitor": 1193,
+    "horse": 1156,
+    "bus": 909,
+    "total_num_images": 16551
+}
