@@ -4,6 +4,7 @@
 # prepare mnist original datafile include:
 # t10k-images.idx3-ubyte, t10k-labels.idx1-ubyte
 # train-images.idx3-ubyte, train-labels.idx1-ubyte
+# 2021/03/11 can download from https://github.com/wuziheng/CNN-Numpy/tree/master/data/mnist
 # the folder structure is assumed to be:
 # build_mnist.sh
 # - <input_path>
