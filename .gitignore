@@ -8,3 +8,5 @@
 *.xml
 *.png
 *.ipynb
+*.idx3-ubyte
+*.idx1-ubyte
