@@ -10,3 +10,4 @@
 *.ipynb
 *.idx3-ubyte
 *.idx1-ubyte
+cifar10/cifar-10-batches-py/
